@@ -1,5 +1,2 @@
-### assets of wiki.aliceincradle.org
-
-- images
-- xlsx-loader
-- xlsx
+### new repositories
+https://github.com/NanameHacha/aicwiki.com
